@@ -1,6 +1,6 @@
 FROM centos:centos7
 
-MAINTAINER Siarhei Krukau <ramesh.yvrr@gmail.com>
+MAINTAINER Ramesh  <ramesh.yvrr@gmail.com>
 
 # Pre-requirements
 RUN mkdir -p /run/lock/subsys
